@@ -1,0 +1,44 @@
+{
+    "noticias": [
+        {
+            "categoria": "Jornalismo",
+            "subcategoria": "Notícias nacionais",
+            "sentimento": "negativo"
+        },
+        {
+            "categoria": "Economia",
+            "subcategoria": "Dólar",
+            "sentimento": "negativo"
+        },
+        {
+            "categoria": "Política",
+            "subcategoria": "PEC",
+            "sentimento": "neutro"
+        },
+        {
+            "categoria": "Notícias nacionais",
+            "subcategoria": "Desastres naturais",
+            "sentimento": "negativo"
+        },
+        {
+            "categoria": "Notícias nacionais",
+            "subcategoria": "Crime",
+            "sentimento": "negativo"
+        },
+        {
+            "categoria": "Esportes",
+            "subcategoria": "Futebol",
+            "sentimento": "neutro"
+        },
+        {
+            "categoria": "Notícias internacionais",
+            "subcategoria": "Política",
+            "sentimento": "positivo"
+        },
+        {
+            "categoria": "Notícias internacionais",
+            "subcategoria": "Política",
+            "sentimento": "positivo"
+        }
+    ]
+}

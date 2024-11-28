@@ -1,0 +1,11 @@
+groq
+langchain_groq
+langchain
+langchain_core
+matplotlib
+kagglehub
+pandas
+tiktoken
+torch
+transformers
+streamlit
